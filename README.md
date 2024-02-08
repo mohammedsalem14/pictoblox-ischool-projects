@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:powderblue;">
+<body style="background-color:purple;">
 <center>
 <h1> Welcome to pictoblox website!</h1>
 <br>
