@@ -1,10 +1,13 @@
 <html>
-<body style="background-color:powderblue;">
+<body>
 <center>
 <h1> Welcome to pictoblox website!</h1>
 <br>
-<img src="pictoblox.png" alt="pictoblox.png" width="333" height="333">
+<img src="pictoblox.png" alt="Trulli" width="333" height="333">
 <br>
+<br>
+<br>
+<a href="https://mohammedsalem14.github.io/info-page/">click for more information</a>
 <br>
 <br>
 </center>
@@ -27,7 +30,14 @@
 <br>
 <br>
 <a href="https://pictoblox.page.link/ehQALNwXze63sTCo9">tobi and football</a>
+<br>
+<br>
+
+
+
 <center>
+
+<br>
 <h1>made by mohammed salem</h1>
 </center>
 <body>
