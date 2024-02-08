@@ -1,9 +1,9 @@
 <html>
 <body>
 <center>
-<h1> Welcome to pictoblox website!!!!!!!!!!!!1!</h1>
+<h1> Welcome to pictoblox website!</h1>
 <br>
-<img src="pictoblox.png"
+<img src="pictoblox.png" alt="Trulli" width="333" height="333">
 <br>
 <br>
 <br>
