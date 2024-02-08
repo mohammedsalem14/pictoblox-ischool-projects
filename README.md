@@ -3,7 +3,7 @@
 <center>
 <h1> Welcome to pictoblox website!</h1>
 <br>
-<img src="pictoblox.png" alt="Trulli" width="333" height="333">
+<img src="pictoblox.png" alt="pictoblox.png" width="333" height="333">
 <br>
 <br>
 <br>
