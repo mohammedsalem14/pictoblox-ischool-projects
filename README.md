@@ -1,7 +1,8 @@
 <html>
 <body style="background-color:powderblue;">
-  <head></head>
+  <head>
   <title> pictoblox projects </title>
+    </head>
 </body>
 <center>
 <h1> Welcome to pictoblox website!</h1>
