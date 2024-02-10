@@ -15,7 +15,7 @@
 <br>
 <br>
 </center>
-<a href="https://pictoblox.page.link/G2dxydputkFFhh4z5">7 sigment display with 2 numbers</a>
+<a href="https://pictoblox.page.link/XE9u7LvhmVuowFQW7">7 sigment display with 2 numbers</a>
 <br>
 <br>
 <a href="https://pictoblox.page.link/shHHwZftFMFV7SoXA">animal classifier</a>
