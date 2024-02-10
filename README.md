@@ -10,8 +10,6 @@
 <br>
 <br>
 <br>
-<a href="https://mohammedsalem14.github.io/info-page/">click for more information</a>
-<br>
 <br>
 </center>
 <a href="https://pictoblox.page.link/XE9u7LvhmVuowFQW7">7 sigment display with 2 numbers</a>
@@ -39,7 +37,7 @@
 
 
 <center>
-
+<a href="https://mohammedsalem14.github.io/info-page/">click for more information</a>
 <br>
 <h1>made by mohammed salem</h1>
 </center>
