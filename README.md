@@ -1,7 +1,7 @@
 <html>
 <body style="background-color:powderblue;">
   <head>
-  <title>pictoblox-ischool-projects</title>
+  <title>pictoblox projects</title>
 </head>
 </body>
 <center>
