@@ -1,7 +1,6 @@
 <html>
 <body style="background-color:powderblue;">
   <head>
-  <title>pictoblox projects</title>
 </head>
 </body>
 <center>
