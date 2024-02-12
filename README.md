@@ -30,7 +30,7 @@
 <a href="https://pictoblox.page.link/ZkmSSLQQHo5bXw9q8">Space battle(2 enemes)</a>
 <br>
 <br>
-<a href="https://pictoblox.page.link/ehQALNwXze63sTCo9">Sobi and football</a>
+<a href="https://pictoblox.page.link/ehQALNwXze63sTCo9">Tobi and football</a>
 <br>
 <br>
 <a href="https://pictoblox.page.link/LW3gxZybX5vxDb2g7">Flappy astro</a>
