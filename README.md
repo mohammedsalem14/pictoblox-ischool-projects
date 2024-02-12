@@ -15,30 +15,30 @@
 <a href="https://pictoblox.page.link/XE9u7LvhmVuowFQW7">7 sigment display with 2 numbers</a>
 <br>
 <br>
-<a href="https://pictoblox.page.link/shHHwZftFMFV7SoXA">animal classifier</a>
+<a href="https://pictoblox.page.link/shHHwZftFMFV7SoXA">Animal classifier</a>
 <br>
 <br>
-<a href="https://pictoblox.page.link/SGDA9FDFAQ5CpLEY6">calcolator</a>
+<a href="https://pictoblox.page.link/SGDA9FDFAQ5CpLEY6">Calcolator</a>
 <br>
 <br>
-<a href="https://pictoblox.page.link/ayKNm69ZmGsZ69L16">fruit classifier (edit teachable machine)</a>
+<a href="https://pictoblox.page.link/ayKNm69ZmGsZ69L16">Fruit classifier (edit teachable machine)</a>
 <br>
 <br>
-<a href="https://pictoblox.page.link/h81w396T7XWZ6tGF6">mr.astro</a>
+<a href="https://pictoblox.page.link/h81w396T7XWZ6tGF6">Mr.astro</a>
 <br>
 <br>
-<a href="https://pictoblox.page.link/ZkmSSLQQHo5bXw9q8">space battle(2 enemes)</a>
+<a href="https://pictoblox.page.link/ZkmSSLQQHo5bXw9q8">Space battle(2 enemes)</a>
 <br>
 <br>
-<a href="https://pictoblox.page.link/ehQALNwXze63sTCo9">tobi and football</a>
+<a href="https://pictoblox.page.link/ehQALNwXze63sTCo9">Sobi and football</a>
 <br>
 <br>
-<a href="https://pictoblox.page.link/LW3gxZybX5vxDb2g7">flappy astro</a>
+<a href="https://pictoblox.page.link/LW3gxZybX5vxDb2g7">Flappy astro</a>
 <br>
 <br>
 <center>
-<a href="https://mohammedsalem14.github.io/info-page/">click for more information</a>
+<a href="https://mohammedsalem14.github.io/info-page/">Click for more information</a>
 <br>
-<h1>made by mohammed salem</h1>
+<h1>Made by Mohammed Salem</h1>
 </center>
 <body>
