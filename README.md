@@ -12,7 +12,7 @@
 <br>
 <br>
 </center>
-  <h2>
+  <h3>
 <a href="https://pictoblox.page.link/XE9u7LvhmVuowFQW7">7 sigment display with 2 numbers</a>
 <br>
 <br>
@@ -43,15 +43,15 @@
   <a href="https://pictoblox.page.link/1SLW2TfcNrMcX6QE7">AI Chatbot</a>
   <br>
   <br>
-    </h2>
+    </h3>
 <center>
 
 <br>
 <h1>Made by Mohammed Salem</h1>
 <br>
 <br>
-<h2>
+<h3>
 <a href="https://mohammedsalem14.github.io/info-page/">About</a>
-</h2>
+</h3>
 </center>
 <body>
