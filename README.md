@@ -49,7 +49,7 @@
 <br>
 <br>
 <h4>
-</h1><a href="https://mohammedsalem14.github.io/info-page/">About</a>
+<a href="https://mohammedsalem14.github.io/info-page/">About</a>
 </h4>
 </center>
 <body>
