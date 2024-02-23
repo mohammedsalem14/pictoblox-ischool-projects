@@ -48,8 +48,8 @@
 <h1>Made by Mohammed Salem</h1>
 <br>
 <br>
-<h1>
+<h2>
 <a href="https://mohammedsalem14.github.io/info-page/">About</a>
-</h1>
+</h2>
 </center>
 <body>
