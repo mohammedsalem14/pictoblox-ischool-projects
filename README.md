@@ -36,9 +36,18 @@
 <a href="https://pictoblox.page.link/LW3gxZybX5vxDb2g7">Flappy astro</a>
 <br>
 <br>
+  <a href="https://pictoblox.page.link/iwjHAAvyh4yHtCBS6">pacman</a>
+  <br>
+  <br>
+  <a href="https://pictoblox.page.link/1SLW2TfcNrMcX6QE7">AI Chatbot</a>
+  <br>
+  <br>
 <center>
-<a href="https://mohammedsalem14.github.io/info-page/">Click for more information</a>
+
 <br>
 <h1>Made by Mohammed Salem</h1>
+<br>
+<br>
+<a href="https://mohammedsalem14.github.io/info-page/">About</a><a href="https://mohammedsalem14.github.io/info-page/">About</a>
 </center>
 <body>
