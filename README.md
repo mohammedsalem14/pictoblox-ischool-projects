@@ -12,6 +12,7 @@
 <br>
 <br>
 </center>
+  <h2>
 <a href="https://pictoblox.page.link/XE9u7LvhmVuowFQW7">7 sigment display with 2 numbers</a>
 <br>
 <br>
@@ -42,6 +43,7 @@
   <a href="https://pictoblox.page.link/1SLW2TfcNrMcX6QE7">AI Chatbot</a>
   <br>
   <br>
+    </h2>
 <center>
 
 <br>
