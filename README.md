@@ -42,7 +42,7 @@
   <br>
   <a href="https://pictoblox.page.link/1SLW2TfcNrMcX6QE7">AI Chatbot</a>
   <br>
-  <br>[
+  <br>
     <a href="https://pictoblox.page.link/PxtVNpJ7McfyYwe46">Facial reactions</a>
     <br>
     <br>
