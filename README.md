@@ -42,7 +42,13 @@
   <br>
   <a href="https://pictoblox.page.link/1SLW2TfcNrMcX6QE7">AI Chatbot</a>
   <br>
-  <br>
+  <br>[
+    <a href="https://pictoblox.page.link/PxtVNpJ7McfyYwe46">Facial reactions</a>
+    <br>
+    <br>
+    <a href="https://teachablemachine.withgoogle.com/models/-YbEyOXxK/">Teachable machine of "Facial reactions"</a>
+    <br>
+    <br>
     </h3>
 <center>
 
