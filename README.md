@@ -3,7 +3,7 @@
   <head>
     <style type="text/css">
 a:link, a:visited ,input{
-  background-color: #ffbf00;
+  background-color: #0092ff
   color: white;
   padding: 14px 25px;
 }
