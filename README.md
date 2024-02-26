@@ -64,7 +64,7 @@
 <br>
 <br>
 <h3>
-<input type="button" value="About" onclick='window.open("[https://www.youraddress.com","_self](https://mohammedsalem14.github.io/info-page/)https://mohammedsalem14.github.io/info-page/");'/>
+<input type="button" value="About" onclick='window.open("https://mohammedsalem14.github.io/info-page/");'/>
 </h3>
 </center>
 <body>
