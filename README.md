@@ -1,8 +1,7 @@
 <html>
 <body style="background-color:powderblue;">
   <head>
-    <style type="text/css">
-a:link, a:visited ,input{
+    <style type="text/css">a:link, a:visited ,input{
   background-color: #48bf53
   color: white;
   padding: 14px 25px;
