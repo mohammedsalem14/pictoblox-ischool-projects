@@ -61,10 +61,7 @@
 
 <br>
 <h1>Made by Mohammed Salem</h1>
-<br>
-<br>
-<h3>
-<input type="button" value="About" onclick='window.open("https://mohammedsalem14.github.io/info-page/");'/>
-</h3>
+
+
 </center>
 <body>
